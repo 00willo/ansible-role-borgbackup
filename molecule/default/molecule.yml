@@ -12,6 +12,8 @@ platforms:
     image: fedora:latest
   - name: debian-bullseye
     image: debian:bullseye
+  - name: debian-bookworm
+    image: debian:bookworm
   - name: ubuntu-latest
     image: ubuntu:latest
   - name: centos-7
